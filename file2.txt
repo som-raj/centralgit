@@ -1,2 +1,4 @@
 adding new notes in file2
 adding notes for master brach
+
+testing revert command
